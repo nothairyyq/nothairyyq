@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaqi</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-- 🌱 I’m currently learning **Go, Rust**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [http://117.72.119.51/](http://117.72.119.51/)
 
