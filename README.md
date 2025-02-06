@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [http://priska997.com/](http://priska997.com/)
+- 👨‍💻 All of my projects are available at [Priska997](http://priska997.com/)
 
-- 📝 I regularly write articles on [http://priska997.com/](http://priska997.com/)
+- 📝 I regularly write articles on [Priska997](http://priska997.com/)
 
 - 💬 Ask me about **datascience, Java**
 
 - 📫 How to reach me **yaqi.yu2000@gmail.com**
 
-- 📄 Know about my experiences [http://priska997.com/](http://priska997.com/about)
+- 📄 Know about my experiences [About Me](http://priska997.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
